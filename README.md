@@ -1,5 +1,8 @@
 # gitflow_release_action
 ##### Copied from https://github.com/thomaseizinger/github-action-gitflow-release-workflow
+###### Changes:
+- changed master to main
+- changed dev to develop
 
 This workflow allows for automated releases using git-flow
 
