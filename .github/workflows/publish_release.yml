@@ -1,11 +1,7 @@
 name: "Publish new release"
 
 on:
-  pull_request:
-    branches:
-      - main
-    types:
-      - closed
+  workflow_call:
 
 jobs:
   release:
