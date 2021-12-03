@@ -1,0 +1,6 @@
+name: Git Flow Release Creation
+description: Perform automated release actions pertaining to git flow when a release or hotfix is merged into main.
+author: Kenny Dubroff
+branding:
+  icon: 'skip-forward'
+  color: 'green'
